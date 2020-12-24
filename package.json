@@ -1,0 +1,27 @@
+{
+  "name": "teamspeak_bots",
+  "version": "1.0.0",
+  "description": "teamspeak_bots",
+  "main": "app.js",
+  "dependencies": {
+    "teamspeak-query": "^4.0.0-pre-0",
+    "twitter-lite": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Fake testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UFOKEK/teamspeak_bots.git"
+  },
+  "keywords": [
+    "teamspeak"
+  ],
+  "author": "UFOKEK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UFOKEK/teamspeak_bots/issues"
+  },
+  "homepage": "https://github.com/UFOKEK/teamspeak_bots#readme"
+}
