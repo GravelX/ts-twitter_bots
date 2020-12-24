@@ -8,4 +8,4 @@ out a tweet to notify your friends when 2 or more people are online.
 ## Launch the bot :
    - `node app.js`
 
-*All commands must be run in /teamspeak_bots/*
+*All commands must be run in /ts-twitter_bots/*
